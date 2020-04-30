@@ -1,0 +1,43 @@
+body{ 
+	font-family: 'Source Sans Pro', sans-serif; 
+	background:#e6e3e3; 
+	margin:0; 
+	text-align: center;
+}
+header{ 
+	background: white; 
+	padding: 10px;
+}
+header h1{ 
+	margin:0;
+}
+div.tarjeta{ 
+	width:500px; 
+	margin: auto;
+}
+div.contenido{ 
+	background:white; 
+	margin: 30px;	
+}
+div.foto{
+	padding: 0;
+	margin: 0;
+}
+div.contenido img{ 
+	object-fit: scale-down;
+	width:100%;
+}
+h2.titulo{	
+	float: left; 
+	margin: 10px;
+}
+span.fecha{
+	float: right; 
+	color: gray; 
+	margin: 10px;
+}
+p.texto{
+	text-align: justify;
+	padding: 0 10px 30px 10px;
+	margin: 0 0 20px 0;
+}
